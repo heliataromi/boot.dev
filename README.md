@@ -2,6 +2,7 @@
 
 My personal playground tracking my progress through the [Boot.dev](https://www.boot.dev) backend engineering curriculum.
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoSize=auto&logoColor=2496ED&labelColor=111111)](https://www.docker.com/)
 [![Language: Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoSize=auto&logoColor=00ADD8&labelColor=111111)](https://go.dev/)
 [![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoSize=auto&logoColor=3776AB&labelColor=111111)](https://www.python.org/)
 [![Profile: heliataromi](https://img.shields.io/badge/boot.dev-heliataromi-8A2BE2?style=for-the-badge&labelColor=111111)](https://www.boot.dev/u/heliataromi)
@@ -14,6 +15,7 @@ My personal playground tracking my progress through the [Boot.dev](https://www.b
 ```text
 .
 ├── Courses/
+│   ├── Docker/                        # Containerization, Dockerfiles, & environments
 │   ├── Learn Go/                      # Go fundamentals & modules
 │   └── Learn HTTP Clients in Go/      # HTTP methods, JSON parsing, DNS, & APIs
 └── Training/                          # Independent standalone exercises
